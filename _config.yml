@@ -6,21 +6,18 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-# email_title: Email (Email title override)
-phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+name: Husanboy
+title: Backend Engineer
+email: hus19950319@gmail.com
+phone: 01032689503
+website: husanboy.tistory.com
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: husanboy
+github_username:  husnboy95
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll
